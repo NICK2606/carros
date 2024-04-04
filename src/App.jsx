@@ -8,7 +8,7 @@ export default function App() {
       <section>
         <div>
           <img src={iconSedans} alt="ícone dos carros sedan" />
-          <h2>Sedans</h2>
+          <h2 className="text-3xl">Sedans</h2>
           <p>Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem.</p>
           <a href="https://carros.peugeot.com.br/gama/peugeot-208.html?msclkid=3b07ec14937f128fa19a8a1a72acebc2" target="_blank">Ver mais</a>
         </div>
