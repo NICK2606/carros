@@ -1,6 +1,6 @@
 import Sedans from "./components/Sedans"
-import Suvs from "./assets/icon-suvs.svg"
-import Luxury from "./assets/icon-luxury.svg"
+import Suvs from "./components/Suvs"
+import Luxury from "./components/Luxury"
 
 export default function App() {
   return (
